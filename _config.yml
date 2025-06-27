@@ -23,13 +23,13 @@ repository               : "SsHuang90/sshuang90.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Shanshi Huang"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : 
+  location         : "Guangzhou"
+  employer         : "HKUST(GZ)"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "shanshihuang@hkust-gz.edu.cn" 
 
   # Academic websites
   academia         : # URL
