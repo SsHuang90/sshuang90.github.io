@@ -9,8 +9,9 @@ author_profile: true
 			<article id="You can also find all my papers through google scholar">
 				<div class="container">
 					<header>
-						<h2 align=center>Publications</h2>
-            <p align=center><a href="https://www.w3schools.com/">[google scholar]</a></p>
+{% if site.author.googlescholar %}
+  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+{% endif %}
 					</header>
                    <header>
 									<h3>Journal papers:</h3>
