@@ -14,8 +14,8 @@ main:
   - title: "People"
     url: /people/
     
-  - title: "Teaching"
-    url: /teaching/    
+  #- title: "Teaching"
+  #  url: /teaching/    
     
   - title: "Services"
     url: /cv/
